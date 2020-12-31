@@ -5,3 +5,7 @@ Start program
  print “diploma employee “
  else salary >=600 OR)then 
  print “Bachelor employee
+If (fees  <=1000 OR )then 
+ print “good budget “ 
+ else fees >=2000 OR)then 
+ print “bad budget”
