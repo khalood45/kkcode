@@ -9,4 +9,7 @@ If (fees  <=1000 OR )then
  print “good budget “ 
  else fees >=2000 OR)then 
  print “bad budget”
+end if
+ end for
+print “over”
 
